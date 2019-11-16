@@ -1,0 +1,2 @@
+# SpeechAndTTS-App
+Very simple speech and text to speech app using C# and .NET
